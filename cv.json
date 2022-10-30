@@ -1,0 +1,196 @@
+{
+  "selectedTemplate": 7,
+  "headings": {
+    "work": "Experience",
+    "volunteering": "Volunteering",
+    "projects": "Projects",
+    "education": "Education",
+    "skills": "Skills",
+    "awards": "Awards",
+    "papers": "Papers"
+  },
+  "basics": {
+    "email": "ogreni.elsa.95@gmail.com",
+    "phone": "+30 6986392096",
+    "website": "ogrenielsa.github.io",
+    "location": {
+      "address": "Patras, Greece"
+    },
+    "name": "Elsa Ogreni"
+  },
+  "work": [
+    {
+      "company": "SKK Metal",
+      "location": "Patras, Greece",
+      "position": "Mechanical Design Engineer",
+      "website": "http://www.skkmetal.gr/",
+      "highlights": [
+        "Modernized processes through automations by digging deeper in software capabilities (in Excel, BySoft, TruTops and more)",
+        "2D and 3D design (Mastercam, SOLIDWORKS, AutoCAD)",
+        "Laser cut design (BySoft) and laser operation",
+        "Punching design (TruTops)",
+        "Image editing (Corel, Photoshop)",
+        "Project cost estimation (transitioned from manual to self-developed automated formulas) and management using Trello",
+        "Accounting"
+      ],
+      "startDate": "Apr 2020",
+      "endDate": "Nov 2022"
+    },
+    {
+      "company": "Santa Rosa",
+      "location": "Patras, Greece",
+      "position": "Waitress",
+      "website": "https://www.santarosa.gr/",
+      "highlights": ["Main waitress", "Cashier duties", "Stock management"],
+      "startDate": "Sep 2017",
+      "endDate": "Apr 2020"
+    },
+    {
+      "company": "Factory Flavors",
+      "location": "Patras, Greece",
+      "position": "Waitress",
+      "highlights": ["Main waitress", "Cashier duties"],
+      "startDate": "Jan 2015",
+      "endDate": "Sep 2017"
+    },
+    {
+      "company": "Rebetiko (seasonal)",
+      "location": "Sougia, Greece",
+      "position": "Waitress",
+      "website": "https://rebetiko-taverna.business.site/",
+      "highlights": ["Main waitress", "Cashier duties"],
+      "startDate": "Jun 2010",
+      "endDate": "Sep 2014"
+    }
+  ],
+  "education": [
+    {
+      "location": "Patras, Greece",
+      "studyType": "Bachelor's",
+      "startDate": "Sep 2013",
+      "endDate": "Feb 2020",
+      "institution": "University of Poloponnese",
+      "area": "Mechanical Engineering",
+      "website": "http://mech.uop.gr/en/welcome/",
+      "thesis": "Measurements of the calorific value of gas fuels with the method of Cone Calorimeter",
+      "gpa": ""
+    }
+  ],
+  "volunteering": [
+    {
+      "company": "Kivotos agapis",
+      "position": "Teaching and creative activities",
+      "website": "http://www.kivotos-agapis.gr/",
+      "startDate": "Oct 2013",
+      "endDate": "May 2015",
+      "location": "Patras, Greece",
+      "highlights": [
+        "Teaching kids with special needs",
+        "Taking care of their needs and entertainment",
+        "Participated in the creative activities group"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywordInfo": {
+        "MasterCAM": {
+          "level": 80,
+          "moreInfo": "I have worked using MasterCAM in an everyday basis."
+        },
+        "SOLIDWORKS": {
+          "level": 60,
+          "moreInfo": "Used mostly for sheet metal processing and 3D designs."
+        },
+        "AutoCAD": {
+          "level": 70,
+          "moreInfo": "I've used AutoCAD to work mostly on 2D sketches in an almost everyday basis, depending on customer needs."
+        },
+        "TruTops": {
+          "level": 90,
+          "moreInfo": "I've used TruTops for punching processing - a very usual task in the company I worked for."
+        },
+        "BySoft": {
+          "level": 80,
+          "moreInfo": "BySoft was our program of choice, being a very flexible program for laser cutting."
+        },
+        "Corel": {
+          "level": 40,
+          "moreInfo": "I've used Corel for image editing, which wasn't a big part of my job."
+        },
+        "Photoshop": {
+          "level": 40,
+          "moreInfo": "I've used Photoshop for image editing, which wasn't a big part of my job."
+        }
+      },
+      "keywords": [
+        "MasterCAM",
+        "SOLIDWORKS",
+        "AutoCAD",
+        "TruTops",
+        "BySoft",
+        "Corel",
+        "Photoshop"
+      ],
+      "name": "Design programs"
+    },
+    {
+      "keywords": [
+        "Managing multiple people",
+        "Team member",
+        "Public speaking",
+        "Interviewing for technical positions",
+        "Knowledge sharing"
+      ],
+      "name": "People skills"
+    },
+    {
+      "keywordInfo": {
+        "Greek (native)": {
+          "level": 100,
+          "moreInfo": "I've been living in Greece since I was 1 year old and I received a Greek education."
+        },
+        "English (C2)": {
+          "level": 90,
+          "moreInfo": "I have obtained the certificate of proficiency in English from the University of Michigan. I am fluent in English and I've been working with all-english speaking people for several years full-time and I continue speaking and writing English often."
+        },
+        "Albanian (native)": {
+          "level": 90,
+          "moreInfo": "My parents are speaking natively Albanian and taught me how to speak since I was a baby."
+        },
+        "German (A2)": {
+          "level": 20,
+          "moreInfo": "I'm mostly self-taught; I can communicate verbally in German in a basic level and understand quite some more."
+        },
+        "Italian (A2)": {
+          "level": 30,
+          "moreInfo": "I've been learning Italian since the start of 2022 and I love them too much to abandon them anytime soon."
+        }
+      },
+      "keywords": [
+        "Greek (native)",
+        "Albanian (native)",
+        "English (C2)",
+        "German (A2)",
+        "Italian (A2)"
+      ],
+      "name": "Languages"
+    }
+  ],
+  "projects": [],
+  "papers": [],
+  "awards": [],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "education",
+    "skills",
+    "projects",
+    "awards",
+    "volunteering",
+    "papers",
+    "hobbies"
+  ]
+}
