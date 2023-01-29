@@ -25,42 +25,26 @@
       "position": "Mechanical Design Engineer",
       "website": "http://www.skkmetal.gr/",
       "highlights": [
-        "Modernized processes through automations by digging deeper in software capabilities (in Excel, BySoft, TruTops and more)",
-        "2D and 3D design (Mastercam, SOLIDWORKS, AutoCAD)",
-        "Laser cut design (BySoft) and laser operation",
-        "Punching design (TruTops)",
-        "Image editing (Corel, Photoshop)",
-        "Project cost estimation (transitioned from manual to self-developed automated formulas) and management using Trello",
-        "Accounting"
+        "Modernized processes through automation by digging deeper into software capabilities (in Excel, BySoft, TruTops, and more).",
+        "2D and 3D design (Mastercam, SOLIDWORKS, AutoCAD).",
+        "Laser cut design (BySoft) and laser operation.",
+        "Punching design (TruTops).",
+        "Image editing (Corel, Photoshop).",
+        "Project cost estimation (transitioned from manual to self-developed automated formulas) and management using Trello.",
+        "In charge of all projects that had to be operated in the Bystronic Laser Machine (like processing 45tons of Aluminium sheet metal)."
       ],
       "startDate": "Apr 2020",
       "endDate": "Nov 2022"
     },
     {
-      "company": "Santa Rosa",
+      "company": "Customer Service",
       "location": "Patras, Greece",
       "position": "Waitress",
-      "website": "https://www.santarosa.gr/",
+      "website": "",
       "highlights": ["Main waitress", "Cashier duties", "Stock management"],
-      "startDate": "Sep 2017",
-      "endDate": "Apr 2020"
-    },
-    {
-      "company": "Factory Flavors",
-      "location": "Patras, Greece",
-      "position": "Waitress",
-      "highlights": ["Main waitress", "Cashier duties"],
-      "startDate": "Jan 2015",
-      "endDate": "Sep 2017"
-    },
-    {
-      "company": "Rebetiko (seasonal)",
-      "location": "Sougia, Greece",
-      "position": "Waitress",
-      "website": "https://rebetiko-taverna.business.site/",
-      "highlights": ["Main waitress", "Cashier duties"],
-      "startDate": "Jun 2010",
-      "endDate": "Sep 2014"
+      "startDate": "Jun 2012",
+      "endDate": "Sep 2021",
+      "more": "Working in a customer service position not only allows you to understand the needs and wants of others, but also helps you to develop empathy, patience, and effective communication skills, which in turn can be applied to all areas of your life, making you both a more understanding and efficient person."
     }
   ],
   "education": [
@@ -69,11 +53,36 @@
       "studyType": "Bachelor's",
       "startDate": "Sep 2013",
       "endDate": "Feb 2020",
-      "institution": "University of Peloponnese",
+      "institution": "University of Poloponnese",
       "area": "Mechanical Engineering",
       "website": "http://mech.uop.gr/en/welcome/",
       "thesis": "Measurements of the calorific value of gas fuels with the method of Cone Calorimeter",
-      "gpa": ""
+      "gpa": "",
+      "more": "Used tools: Python, Fortran, QBasic. SolidWorks (2D/3D), Autocad (2D/3D)."
+    },
+    {
+      "location": "Athens, Greece",
+      "studyType": "Certificate of specialised training in Special Education",
+      "startDate": "Sep 2018",
+      "endDate": "Aug 2019",
+      "institution": "National and Kapodistrian University of Athens",
+      "area": "",
+      "website": "https://en.uoa.gr/",
+      "thesis": "",
+      "gpa": "",
+      "more": "I gained a deeper understanding of the unique needs of students with disabilities. Various teaching strategies and interventions to support academic, social, and emotional development were the main goals of this program. In addition, I developed my skills in creating individualized education plans and creating inclusive learning environments."
+    },
+    {
+      "location": "Patras, Greece",
+      "studyType": "Certificate of Proficiency in English",
+      "startDate": "May 2014",
+      "endDate": "",
+      "institution": "University of Michigan",
+      "area": "",
+      "website": "https://umich.edu/",
+      "thesis": "",
+      "gpa": "",
+      "more": ""
     }
   ],
   "volunteering": [
@@ -88,7 +97,8 @@
         "Teaching kids with special needs",
         "Taking care of their needs and entertainment",
         "Participated in the creative activities group"
-      ]
+      ],
+      "more": "During my years of volunteering, I have been able to gain a deep understanding of the challenges these individuals face on a daily basis. I have been able to provide emotional support, comfort, and companionship. I also had the opportunity to help organize activities and events. My time spent volunteering has given me a profound appreciation for the beauty of human relationships and for the strength and resilience of the human spirit."
     }
   ],
   "skills": [
@@ -97,53 +107,61 @@
       "keywordInfo": {
         "MasterCAM": {
           "level": 80,
-          "moreInfo": "I have worked using MasterCAM in an everyday basis."
+          "moreInfo": "Used mainly for 2D design, doing preliminary work for the Bystronic Laser Cutting Machine software (Bysoft)."
         },
         "SOLIDWORKS": {
-          "level": 60,
-          "moreInfo": "Used mostly for sheet metal processing and 3D designs."
+          "level": 80,
+          "moreInfo": "Used mostly for sheet metal processing and 3D designs. Used in self-taught projects (3D designs, assembly, sheet metal)"
         },
         "AutoCAD": {
           "level": 70,
-          "moreInfo": "I've used AutoCAD to work mostly on 2D sketches in an almost everyday basis, depending on customer needs."
+          "moreInfo": "Used interchangeably with MasterCAM based on the compatibility of the 2D designs."
         },
         "TruTops": {
           "level": 90,
-          "moreInfo": "I've used TruTops for punching processing - a very usual task in the company I worked for."
+          "moreInfo": "Used TruTops for punching processing - a very common task in a company I worked for"
         },
         "BySoft": {
-          "level": 80,
-          "moreInfo": "BySoft was our program of choice, being a very flexible program for laser cutting."
-        },
-        "Corel": {
-          "level": 40,
-          "moreInfo": "I've used Corel for image editing, which wasn't a big part of my job."
+          "level": 95,
+          "moreInfo": "A very flexible program for laser cutting. It is especially useful for nesting, a process strictly related to the cost, sheet metal thickness, and other properties"
         },
         "Photoshop": {
           "level": 40,
-          "moreInfo": "I've used Photoshop for image editing, which wasn't a big part of my job."
+          "moreInfo": "Basic image editing."
         }
       },
       "keywords": [
-        "MasterCAM",
+        "BySoft",
         "SOLIDWORKS",
+        "MasterCAM",
         "AutoCAD",
         "TruTops",
-        "BySoft",
-        "Corel",
         "Photoshop"
       ],
       "name": "Design programs"
     },
     {
+      "keywordInfo": {
+        "Managing High-Cost Projects": {
+          "moreInfo": "I have managed dozens of high-cost projects, with the highlight being laser cutting 45 tons of aluminum sheet metal; teaching me attention to detail and stress management skills. I have also been responsible for stock management in the iron warehouse of this company, including sheet metal (Aluminium, Steel, Inox, DCP), UPN/IPE profiles, and Square/Rectangular/Circular hollow structural profiles, etc"
+        },
+        "Process Modernization": {
+          "moreInfo": "Researching software capabilities and utilizing them fully (SolidWorks, MasterCAM, Excel, and more) Excel formula for cost estimations, resulting in a reduction of human errors by 60% while making a previously tedious process almost instant. Utilized Trello for project management. This helped immensely in keeping track of many parallel orders, making their information accessible in real-time."
+        },
+        "People Skills": {
+          "moreInfo": "I am a very friendly and empathetic person, and I connect with people quite easily. I am a team player, as I have been part of a team in most of my past jobs. At the same time, I am attentive to the customers' needs, taking special care into understanding their exact requirements."
+        },
+        "MS Office": {
+          "moreInfo": "Used extensively during work and university."
+        }
+      },
       "keywords": [
-        "Managing multiple people",
-        "Team member",
-        "Public speaking",
-        "Interviewing for technical positions",
-        "Knowledge sharing"
+        "Managing High-Cost Projects",
+        "Process Modernization",
+        "People Skills",
+        "MS Office"
       ],
-      "name": "People skills"
+      "name": "Other skills"
     },
     {
       "keywordInfo": {
