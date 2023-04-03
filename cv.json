@@ -76,7 +76,7 @@
       "website": "https://en.uoa.gr/",
       "thesis": "",
       "gpa": "",
-      "more": "I gained a deeper understanding of the unique needs of students with disabilities. Various teaching strategies and interventions to support academic, social, and emotional development were the main goals of this program. In addition, I developed my skills in creating individualized education plans and creating inclusive learning environments."
+      "more": "Enhanced knowledge of catering to students with disabilities by utilizing diverse teaching strategies and interventions to facilitate academic, social, and emotional progress. Proficient in creating tailored education plans and fostering inclusive learning environments."
     },
     {
       "location": "Patras, Greece",
@@ -129,12 +129,13 @@
         },
         "BySoft": {
           "level": 95,
-          "moreInfo": "A very flexible program for laser cutting. It is especially useful for nesting, a process strictly related to the cost, sheet metal thickness, and other properties"
+          "moreInfo": "A highly adaptable laser cutting software that specializes in nesting, a cost-efficient process that considers sheet metal thickness and other properties."
         },
         "Photoshop": {
           "level": 40,
           "moreInfo": "Basic image editing."
         }
+
       },
       "keywords": [
         "BySoft",
@@ -149,23 +150,35 @@
     {
       "keywordInfo": {
         "Managing High-Cost Projects": {
-          "moreInfo": "I have managed dozens of high-cost projects, with the highlight being laser cutting 45 tons of aluminum sheet metal; teaching me attention to detail and stress management skills. I have also been responsible for stock management in the iron warehouse of this company, including sheet metal (Aluminium, Steel, Inox, DCP), UPN/IPE profiles, and Square/Rectangular/Circular hollow structural profiles, etc"
+          "moreInfo": "Extensive experience managing large-scale projects, including laser cutting 45 tons of aluminum sheet metal, honing attention to detail and stress management skills. Proficient in stock management for various materials in the iron warehouse, such as sheet metal (aluminum, steel, inox, DCP), UPN/IPE profiles, and various hollow structural profiles."
         },
         "Process Modernization": {
-          "moreInfo": "Researching software capabilities and utilizing them fully (SolidWorks, MasterCAM, Excel, and more) Excel formula for cost estimations, resulting in a reduction of human errors by 60% while making a previously tedious process almost instant. Utilized Trello for project management. This helped immensely in keeping track of many parallel orders, making their information accessible in real-time."
+          "moreInfo": "Proficient in researching and maximizing software capabilities such as SolidWorks, MasterCAM, and Excel. Developed self-automated formulas using Excel for dynamic cost estimation, reducing processing time by 50% and minimizing human error. Utilized Trello for efficient project management, allowing real-time access to information for multiple parallel orders."
         },
         "People Skills": {
-          "moreInfo": "I am a very friendly and empathetic person, and I connect with people quite easily. I am a team player, as I have been part of a team in most of my past jobs. At the same time, I am attentive to the customers' needs, taking special care into understanding their exact requirements."
+          "moreInfo": "Proficient in building positive relationships with customers and colleagues, while maintaining individual roles in team environments. Skilled in empathizing with customers and meeting their specific needs. Successfully implemented the Excel formula for cost estimation alongside a colleague, delegating tasks based on each other's strengths."
         },
         "MS Office": {
           "moreInfo": "Used extensively during work and university."
+		},
+        "Multitasking": {
+          "moreInfo": "Successfully delivered time-sensitive proposals for two clients within 15 minutes, while simultaneously ensuring the proper functioning of a laser cutting machine and identifying and correcting a design error prior to production. Demonstrated strong multitasking skills and attention to detail in a fast-paced environment."
+		},
+        "Detail-Oriented": {
+          "moreInfo": "My approach to checking involves exploring various methods to reach the desired outcome, rather than simply repeating past actions. By meticulously verifying each step, I ensure the highest level of accuracy and quality in my work. This has resulted in a strong track record of success and a reputation for producing exceptional work."
+		},
+        "Fast learner": {
+          "moreInfo": "When I first joined the company, I was tasked with learning Bysoft, preparing cost proposals for stock, and managing the invoice process, all within one month before my predecessor left. Despite the challenge, I was able to quickly learn these responsibilities and also identified areas for improvement within the company. I wasted no time and started implementing these changes as soon as possible."
         }
       },
       "keywords": [
         "Managing High-Cost Projects",
         "Process Modernization",
         "People Skills",
-        "MS Office"
+        "MS Office",
+		"Multitasking",
+		"Detail-Oriented",
+		"Fast learner"
       ],
       "name": "Other skills"
     },
