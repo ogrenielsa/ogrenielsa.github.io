@@ -47,17 +47,17 @@
 			"location": "Patras, Greece",
 			"position": "Waitress",
 			"website": "",
-			"highlights": ["Main waitress", "Cashier duties", "Stock management"],
+			"highlights": ["Worked as a main waitress, cashier, and stock manager.", "Achieved excellent customer service and communication skills.", "Demonstrated a team-first mentality and separated responsibilities depending on the characteristics of my teammates."],
 			"startDate": "Jun 2012",
 			"endDate": "Sep 2021",
-			"more": "Customer service experience provided me with valuable opportunities to develop empathy, patience, and communication skills. Also, I obtained confidence and expertise in resolving customer issues and concerns, with a track record of successful customer whispering."
+			"more": ""
 		},
 		{
 			"company": "Region Of Western Greece",
 			"location": "Patras, Greece",
-			"position": "Mechanical Engineer",
+			"position": "Intern Mechanical Engineer",
 			"website": "https://www.pde.gov.gr/gr/index.php",
-			"highlights": ["Internship"],
+			"highlights": ["Designed traffic lights and road maps for Agrinion.", "Conducted research on law for citizens' demands."],
 			"startDate": "Feb 2020",
 			"endDate": "Oct 2020",
 			"more": "Traffic Light Designs, Research on law for citizens' demands, Road map designs for Agrinion."
@@ -71,8 +71,21 @@
 			"institution": "University of Peloponnese",
 			"area": "Mechanical Engineering",
 			"website": "http://mech.uop.gr/en/welcome/",
-			"more": "Bachelor Thesis on the measurement of calorific value of gaseous fuels using the cone calorimeter method. Developed a methodology for accurate and reliable measurements. Conducted experimental measurements at the Laboratory of Technical Thermodynamics at the University of Patras."
+			"highlights": ["Bachelor Thesis on the measurement of calorific value of gaseous fuels using the cone calorimeter method. Developed a methodology for accurate and reliable measurements. Conducted experimental measurements at the Laboratory of Technical Thermodynamics at the University of Patras.", "Extensive focus on Cad design (Mechanical Engr. Drawing I & II, Computer Aid Design CAD, Computer Air Manufacturing CAM)", "English Language Terminology."],
+			"more": ""
 
+		},
+		{
+			"location": "Patras, Greece",
+			"studyType": "Certificate of Informatics and Computers",
+			"startDate": "Sep 2013",
+			"endDate": "Apr 2021",
+			"institution": "University of Peloponnese",
+			"area": "",
+			"website": "http://mech.uop.gr/en/welcome/",
+			"thesis": "",
+			"gpa": "",
+			"more": ""
 		},
 		{
 			"location": "Athens, Greece",
@@ -155,25 +168,25 @@
 		{
 			"keywordInfo": {
 				"Managing High-Cost Projects": {
-					"moreInfo": "Extensive experience managing large-scale projects, including laser cutting 45 tons of aluminum sheet metal, honing attention to detail and stress management skills. Proficient in stock management for various materials in the iron warehouse, such as sheet metal (aluminum, steel, inox, DCP), UPN/IPE profiles, and various hollow structural profiles."
+					"moreInfo": "Laser cutting 45 tons of aluminum sheet metal, honing attention to detail and stress management skills. Along woth Stock management: For various materials in the iron warehouse, such as sheet metal (aluminum, steel, inox, DCP), etc."
 				},
 				"Process Modernization": {
-					"moreInfo": "Proficient in researching and maximizing software capabilities such as SolidWorks, MasterCAM, and Excel. Developed self-automated formulas using Excel for dynamic cost estimation, reducing processing time by 50% and minimizing human error. Utilized Trello for efficient project management, allowing real-time access to information for multiple parallel orders."
+					"moreInfo": "Maximized software capabilities and streamlined project management through automated Excel formulas for cost estimation reducing processing time by 50% and minimizing human error. Utilized real-time information access via Trello for multiple parallel orders."
 				},
 				"People Skills": {
-					"moreInfo": "Proficient in building positive relationships with customers and colleagues, while maintaining individual roles in team environments. Skilled in empathizing with customers and meeting their specific needs. Successfully implemented the Excel formula for cost estimation alongside a colleague, delegating tasks based on each other's strengths."
+					"moreInfo": "I am skilled in building positive relationships with customers and colleagues, empathizing with customers, meeting their specific needs, and successfully collaborating with colleagues to implement solutions."
 				},
 				"MS Office": {
 					"moreInfo": "Used extensively during work and university."
 				},
 				"Multitasking": {
-					"moreInfo": "Successfully delivered time-sensitive proposals for two clients within 15 minutes, while simultaneously ensuring the proper functioning of a laser cutting machine and identifying and correcting a design error prior to production. Demonstrated strong multitasking skills and attention to detail in a fast-paced environment."
+					"moreInfo": "Attention to detail, and timely delivery of time-sensitive proposals while ensuring proper functioning of a laser cutting machine and correcting a design error before production."
 				},
 				"Detail-Oriented": {
 					"moreInfo": "My approach to checking involves exploring various methods to reach the desired outcome, rather than simply repeating past actions. By meticulously verifying each step, I ensure the highest level of accuracy and quality in my work. This has resulted in a strong track record of success and a reputation for producing exceptional work."
 				},
 				"Fast learner": {
-					"moreInfo": "When I first joined the company, I was tasked with learning Bysoft, preparing cost proposals for stock, and managing the invoice process, all within one month before my predecessor left. Despite the challenge, I was able to quickly learn these responsibilities and also identified areas for improvement within the company. I wasted no time and started implementing these changes as soon as possible."
+					"moreInfo": "I successfully learned Bysoft, prepared cost proposals, managed the invoice process, identified areas for improvement, and implemented changes quickly within one month of joining the company, despite the challenge."
 				}
 			},
 			"keywords": [
