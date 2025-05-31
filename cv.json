@@ -3,6 +3,7 @@
   "headings": {
     "work": "Experience",
     "volunteering": "Volunteering",
+    "interests": "Interests",
     "projects": "Projects",
     "education": "Education",
     "skills": "Skills",
@@ -11,37 +12,72 @@
   },
   "basics": {
     "email": "ogreni.elsa.95@gmail.com",
-    "phone": "+30 6986392096",
+    "phone": "+45 71624702",
     "website": "ogrenielsa.github.io",
+    "position": "Project Manager",
     "location": {
-      "address": "Patras, Greece"
+      "address": "Vestamager, København S"
     },
     "name": "Elsa Ogreni"
   },
   "work": [
     {
+      "company": "Novo Nordisk Engineering",
+      "location": "Kalundborg, Denmark",
+      "position": "Project Manager / PM Department",
+      "website": "https://www.nne.com/",
+      "responsibilities": [
+        "Project Manager for 11 packages and about 200mio dkk",
+        "Handling advanced Process Equipment",
+        "Cross-Disciplinary collaboration",
+        "Project Planning",
+        "Budget management",
+        "Vendor communication and alignment on technical level",
+        "Coordination of on-site activities, Procurement etc",
+        "Building according to latest available technology",
+        "Risk Management",
+        "Change Management",
+        "Resources Management (Leading and Developing)"
+      ],
+      "achievements": [],
+      "startDate": "Apr 2024",
+      "endDate": "Now"
+    },
+    {
+      "company": "Novo Nordisk Engineering",
+      "location": "Kalundborg, Denmark",
+      "position": "Tender Coordinator - Mechanical Engineer / Mechanical Department",
+      "website": "https://www.nne.com/",
+      "responsibilities": [
+        "Tender coordinator across 2 teams handling about 20 work packages",
+        "Clarification and negotiation with vendors",
+        "Preparation of technical tender material",
+        "Coordination/Collaboration with cross disciplinary teams for design reviews",
+        "GMP (Good Manufacturing Practice) compliance",
+        "Risk assessments",
+        "Management tasks",
+        "Buddy role for support to newcomers",
+        "Optimization of processes"
+      ],
+      "achievements": [],
+      "startDate": "Sep 2023",
+      "endDate": "Apr 2024"
+    },
+    {
       "company": "SKK Metal",
       "location": "Patras, Greece",
       "position": "Mechanical Design Engineer",
       "website": "http://www.skkmetal.gr/",
-      "responsibilities": [
-        "Constant communication with clients to obtain orders and exchange technical details.",
-        "Frequent communication with suppliers due to fluctuating prices in the steel industry. ",
-        "Procurement of iron inventory and consumables such as Milwaukee tools, files, spanners, and other related products",
-        "In charge of industrial CAD designs with SolidWorks and Mastercam. .",
-        "Design preparation with Bysoft software for Laser cutting machine.",
-        "Design preparation with TrueTops software for Punching machine.",
-        "Project cost estimation, preparation, and submission of client proposals, as well as pricing of completed orders",
-        "Invoice preparation of completed orders, with Galaxy My Data software. ",
-        "Perform routine process checks on orders to ensure seamless execution, while optimizing time management and minimizing delays"
+      "responsibilitiesAndAchievements": [
+        "Managed clients, suppliers, and warehouse operations in the steel industry.",
+        "Created CAD designs (SolidWorks, Mastercam, etc.) for laser and punching machines.",
+        "Handled project cost estimates and proposals.",
+        "Improved production efficiency and implemented Excel automation, cutting estimation time.",
+        "Strengthened supplier negotiations and adopted Trello to boost team productivity.",
+        "Applied reverse engineering and maintained routine production control."
       ],
-      "achievements": [
-        "Over the course of nearly two years, I have maintained an exceptional track record with customers by utilizing efficient communication techniques to extract pertinent information, thereby optimizing time management and minimizing extraneous dialogue.",
-        "Demonstrated expertise in effective negotiation techniques, consistently reminding suppliers of the competitive nature of the market.",
-        "Driven by a natural curiosity and determination, I continuously seek out innovative design tools and techniques. Through such efforts, I have successfully identified and implemented various tools, resulting in time savings of up to 30% in certain cases.",
-        "I am a troubleshooter as I Implemented a transition from manual calculation methods utilizing calculators, to self-developed automated formulas using Excel with dynamic cost estimation features. This transition resulted in a 50% reduction in processing time and virtually eliminated human error.",
-        "Successfully advocated for the implementation of Trello as a project management tool, resulting in enhanced communication and coordination among all team members. This initiative provided a clear visualization of tasks in various stages, including those in the 'to-do', 'in progress', and 'completed' stages, reducing time in communication through phone and increasing productivity."
-      ],
+      "responsibilities": [],
+      "achievements": [],
       "startDate": "Apr 2020",
       "endDate": "Nov 2022"
     },
@@ -51,29 +87,68 @@
       "position": "Waitress",
       "website": "",
       "highlights": [
-        "Worked as a main waitress, cashier, and stock manager.",
-        "Achieved excellent customer service and communication skills.",
-        "Demonstrated a team-first mentality and separated responsibilities depending on the characteristics of my teammates."
+        "Lead waitress, cashier, and stock manager.",
+        "Strong sense of personal responsibility.",
+        "Worked effectively in fast-paced environments.",
+        "Demonstrated respect and friendliness.",
+        "Developed strong communication and organizational skills.",
+        "Worked perfectly in a team setting."
       ],
       "startDate": "Jun 2012",
       "endDate": "Sep 2021",
       "more": ""
     },
     {
-      "company": "Region Of Western Greece",
+      "company": "Regional Government of Western Greece (PDE)",
       "location": "Patras, Greece",
       "position": "Intern Mechanical Engineer",
       "website": "https://www.pde.gov.gr/gr/index.php",
       "highlights": [
-        "Designed traffic lights and road maps for Agrinion.",
+        "Organized data archive of engineering documentation.",
+        "Studied manufacturing processes.",
         "Conducted research on law for citizens' demands."
       ],
       "startDate": "Feb 2020",
       "endDate": "Oct 2020",
-      "more": "Traffic Light Designs, Research on law for citizens' demands, Road map designs for Agrinion."
+      "more": ""
     }
   ],
   "education": [
+    {
+      "location": "Remote",
+      "studyType": "Advanced Diploma",
+      "startDate": "March 2025",
+      "endDate": "Now",
+      "institution": "Alison",
+      "area": "Modelling and Analytics for Supply Chain Management",
+      "website": "https://alison.com/",
+      "highlights": [
+        "Supply Chain Fundamentals, Data Analysis and Visualization",
+        "Statistical Analysis, Optimization Techniques",
+        "Supply Chain Modeling, Data-Driven Decision Making",
+        "Communication and Presentation"
+      ],
+      "more": ""
+    },
+    {
+      "location": "Kalundborg, Denmark",
+      "studyType": "Diploma",
+      "startDate": "Apr 2024",
+      "endDate": "Jun 2024",
+      "institution": "Novo Nordisk Engineering",
+      "area": "Project Management",
+      "website": "https://www.nne.com/",
+      "highlights": [
+        "Procurement",
+        "Controlling",
+        "Project initiation",
+        "Stakeholder Management",
+        "Change Management",
+        "Planning",
+        "Execution",
+        "Project Closing"
+      ]
+    },
     {
       "location": "Patras, Greece",
       "studyType": "Bachelor's",
@@ -84,7 +159,7 @@
       "website": "http://mech.uop.gr/en/welcome/",
       "highlights": [
         "Bachelor Thesis on the measurement of calorific value of gaseous fuels using the cone calorimeter method. Developed a methodology for accurate and reliable measurements. Conducted experimental measurements at the Laboratory of Technical Thermodynamics at the University of Patras.",
-        "Extensive focus on Cad design (Mechanical Engr. Drawing I & II, Computer Aid Design CAD, Computer Air Manufacturing CAM)",
+        "Extensive focus on CAD design (Mechanical Engr. Drawing I & II, Computer-Aided Design CAD, Computer-Aided Manufacturing CAM)",
         "English Language Terminology."
       ],
       "more": ""
@@ -128,6 +203,31 @@
   ],
   "volunteering": [
     {
+      "company": "Røde Kros",
+      "position": "Venner Viser Vej",
+      "website": "https://www.rodekors.dk/venner-viser-vej",
+      "startDate": "2025",
+      "endDate": "Nu",
+      "location": "Copenhagen, Denmark",
+      "highlights": [
+        "Will be assigned to a family and support them navigate Denmark."
+      ],
+      "more": ""
+    },
+    {
+      "company": "Radio Martiria 95.5",
+      "position": "Radio Producer for children",
+      "website": "https://www.e-radio.gr",
+      "startDate": "2020",
+      "endDate": "2021",
+      "location": "Patras, Greece",
+      "highlights": [
+        "\"Become a child, so you can believe in fairytales\"",
+        "Stories and songs for children"
+      ],
+      "more": ""
+    },
+    {
       "company": "Kivotos agapis",
       "position": "Teaching and creative activities",
       "website": "http://www.kivotos-agapis.gr/",
@@ -146,105 +246,121 @@
     {
       "level": "",
       "keywordInfo": {
-        "MasterCAM": {
-          "level": 80,
-          "moreInfo": "Used mainly for 2D design, doing preliminary work for the Bystronic Laser Cutting Machine software (Bysoft)."
-        },
-        "SOLIDWORKS": {
-          "level": 80,
-          "moreInfo": "Used mostly for sheet metal processing and 3D designs. Used in self-taught projects (3D designs, assembly, sheet metal)"
-        },
-        "AutoCAD": {
-          "level": 70,
-          "moreInfo": "Used interchangeably with MasterCAM based on the compatibility of the 2D designs."
-        },
-        "TruTops": {
+        "MS Project": {
           "level": 90,
-          "moreInfo": "Used TruTops for punching processing - a very common task in a company I worked for"
+          "moreInfo": "Used extensively for planning one a daily basis."
         },
-        "BySoft": {
-          "level": 95,
-          "moreInfo": "A highly adaptable laser cutting software that specializes in nesting, a cost-efficient process that considers sheet metal thickness and other properties."
+        "MS Office": {
+          "level": 90,
+          "moreInfo": "Used extensively for project management, documentation, and communication."
         },
-        "Photoshop": {
-          "level": 40,
-          "moreInfo": "Basic image editing."
+        "OneNote/Trello": {
+          "level": 90,
+          "moreInfo": "Used for project management, task tracking, and team collaboration."
+        },
+        "Dalux": {
+          "level": 80,
+          "moreInfo": "Used for handling project packages with vendors, change management, technical queries and payment requests."
+        },
+        "MS Copilot": {
+          "level": 60,
+          "moreInfo": "Daily handling of emails, meetings, framing agendas and content creation with the help of Artificial Intelligence."
         }
       },
       "keywords": [
-        "BySoft",
-        "SOLIDWORKS",
-        "MasterCAM",
-        "AutoCAD",
-        "TruTops",
-        "Photoshop"
+        "MS Project",
+        "MS Office",
+        "OneNote/Trello",
+        "Dalux",
+        "MS Copilot"
       ],
-      "name": "Design programs"
+      "name": "programs"
     },
     {
       "keywordInfo": {
         "Managing High-Cost Projects": {
-          "moreInfo": "Laser cutting 45 tons of aluminum sheet metal, honing attention to detail and stress management skills. Along woth Stock management: For various materials in the iron warehouse, such as sheet metal (aluminum, steel, inox, DCP), etc."
-        },
-        "Process Modernization": {
-          "moreInfo": "Maximized software capabilities and streamlined project management through automated Excel formulas for cost estimation reducing processing time by 50% and minimizing human error. Utilized real-time information access via Trello for multiple parallel orders."
+          "moreInfo": "Context-switching between 11 different process equipment packages with a budget up to 200mio dkk. Laser Cutting 45 tons of aluminum sheet metal."
         },
         "People Skills": {
-          "moreInfo": "I am skilled in building positive relationships with customers and colleagues, empathizing with customers, meeting their specific needs, and successfully collaborating with colleagues to implement solutions."
+          "moreInfo": "I am skilled in building positive relationships with customers and colleagues. I can empathise with customers, meet their specific needs, as well as efficiently collaborate with my colleagues to achieve the company goals."
         },
-        "MS Office": {
-          "moreInfo": "Used extensively during work and university."
+        "Continuous Learning": {
+          "moreInfo": "I can adapt to new technologies, tools, and methodologies as they evolve. I am always eager to learn and grow, which has allowed me to stay ahead in my field."
         },
-        "Multitasking": {
-          "moreInfo": "Attention to detail, and timely delivery of time-sensitive proposals while ensuring proper functioning of a laser cutting machine and correcting a design error before production."
+        "Process optimization": {
+          "moreInfo": "Naturally driven by curiosity and a desire to continuously improve processes and find better solutions. I have a strong track record of identifying inefficiencies and implementing effective solutions."
+        },
+        "Testing and troubleshooting": {
+          "moreInfo": "Implementing ideas on fixing problems, and improving time management and efficiency. I have a keen eye for detail and a methodical approach to problem-solving."
+        },
+        "Warehouse management": {
+          "moreInfo": "For all materials in the iron industry. I have experience managing inventory, ensuring proper storage, and maintaining accurate records."
+        },
+        "Communication and Collaboration": {
+          "moreInfo": "Experienced in collaborating with multidisciplinary teams and thriving in diverse and professional environments. I excel at building relationships and fostering a positive team dynamic."
+        },
+        "Project Management": {
+          "moreInfo": "Plan, organize, lead and execute engineering projects. This involves managing resources, planning, setting direction and ensuring successful project completion. I have a proven track record of delivering projects on time and within budget."
+        },
+        "Technical Drawing and Documentation": {
+          "moreInfo": "Creation of Tender Document Lists and Technical Tender Specifications, Supplier inspections, quality plans etc. I have a strong understanding of technical documentation and its importance in project success."
         },
         "Detail-Oriented": {
           "moreInfo": "My approach to checking involves exploring various methods to reach the desired outcome, rather than simply repeating past actions. By meticulously verifying each step, I ensure the highest level of accuracy and quality in my work. This has resulted in a strong track record of success and a reputation for producing exceptional work."
         },
         "Fast learner": {
-          "moreInfo": "I successfully learned Bysoft, prepared cost proposals, managed the invoice process, identified areas for improvement, and implemented changes quickly within one month of joining the company, despite the challenge."
+          "moreInfo": "I adapt fast to change. I switched from the Mechanical Department into the PM Department in NNE within 7 months. I successfully learned Bysoft, prepared cost proposals, managed the invoice process, identified areas for improvement, and implemented changes quickly within one month of joining SSK Metal, despite the challenge."
         }
       },
       "keywords": [
-        "Managing High-Cost Projects",
-        "Process Modernization",
+        "Project Management",
         "People Skills",
-        "MS Office",
-        "Multitasking",
+        "Managing High-Cost Projects",
+        "Technical Drawing and Documentation",
+        "Warehouse management",
         "Detail-Oriented",
-        "Fast learner"
+        "Fast learner",
+        "Continuous Learning",
+        "Process optimization",
+        "Testing and troubleshooting",
+        "Communication and Collaboration"
       ],
-      "name": "Other skills"
+      "name": "Other Skills"
     },
     {
       "keywordInfo": {
-        "Greek (native)": {
-          "level": 100,
-          "moreInfo": "I've been living in Greece since I was 1 year old and I received a Greek education."
-        },
         "English (C2)": {
           "level": 90,
           "moreInfo": "I have obtained the certificate of proficiency in English from the University of Michigan. I am fluent in English and I've been working with all-english speaking people for several years full-time and I continue speaking and writing English often."
+        },
+        "Danish (B2)": {
+          "level": 60,
+          "moreInfo": "I have been living in Denmark since September 2023 and I am currently taking a Danish course. I can communicate verbally in Danish in a basic level and understand quite some more."
         },
         "Albanian (native)": {
           "level": 90,
           "moreInfo": "My parents are speaking natively Albanian and taught me how to speak since I was a baby."
         },
-        "German (A2)": {
+        "German (A1)": {
           "level": 20,
           "moreInfo": "I'm mostly self-taught; I can communicate verbally in German in a basic level and understand quite some more."
         },
-        "Italian (B1)": {
-          "level": 45,
+        "Italian (A2)": {
+          "level": 35,
           "moreInfo": "I've been learning Italian since the start of 2022 and I love them too much to abandon them anytime soon."
+        },
+        "Greek (native)": {
+          "level": 100,
+          "moreInfo": "I've been living in Greece since I was 1 year old and I received a Greek education."
         }
       },
       "keywords": [
+        "English (C2)",
+        "Danish (B2)",
         "Greek (native)",
         "Albanian (native)",
-        "English (C2)",
-        "German (A2)",
-        "Italian (B1)"
+        "German (A1)",
+        "Italian (A2)"
       ],
       "name": "Languages"
     }
@@ -270,6 +386,40 @@
       "keywords": [],
       "name": "Marble Toy",
       "description": "Successfully designed and constructed a functional and visually appealing marble toy using SolidWorks, showcasing creativity and proficiency in understanding complex mechanisms and components.",
+      "roleDescription": "",
+      "url": "",
+      "pictures": []
+    }
+  ],
+  "interests": [
+    {
+      "name": "Writing",
+      "description": "The trees at winter look like vains that feed the air. Like roots that turned the other way. Don't look like that, just go and see, when looking at the nature you might see me. We are all one, energy and flesh from the same gem. And that's not strange it's another way, to see that, we're all around and vibrate like waves, so let's go and float and not just gaze. By E.O.",
+      "roleDescription": "",
+      "keywords": [],
+      "url": "",
+      "pictures": []
+    },
+    {
+      "name": "Reading",
+      "description": "The biggest power one can have, and the sweetest gift one can get.",
+      "keywords": [],
+      "roleDescription": "",
+      "url": "",
+      "pictures": []
+    },
+    {
+      "keywords": [],
+      "name": "Dancing-LindyHop",
+      "description": "Dancing is like flying, one minute you are on the ground and the next you are in the air.",
+      "roleDescription": "",
+      "url": "",
+      "pictures": []
+    },
+    {
+      "keywords": [],
+      "name": "Macro Photography",
+      "description": "When I was young I was told that the world expands only upwards, but then I looked in a microscope and discovered a brand new world. And it fascinates me how many details the world consists of.",
       "roleDescription": "",
       "url": "",
       "pictures": []
